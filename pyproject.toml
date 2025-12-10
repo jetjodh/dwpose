@@ -5,7 +5,7 @@ description = "Pose Estimation Library developed by OpenMMLab"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "mmcv>=2.0.1,<2.2",
+    "mmcv",
     "mmdet>=3.0.0,<3.3",
     "mmengine>=0.10.0",
     "mmpose>=1.1.0",
