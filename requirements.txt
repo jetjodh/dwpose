@@ -10,7 +10,7 @@ scikit-learn~=1.5
 opencv-python~=4.9
 ninja~=1.11
 openmim~=0.3.9
-mmcv>=2.0.1,<2.2
+mmcv
 mmdet>=3.0.0,<3.3
 mmpose>=1.1.0
 mmengine>=0.10.0
